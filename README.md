@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZentryxTH
 - 👀 I’m interested in Web Progeramming, LLM, Machine Learning and Blockchain system
-- 🌱 I’m currently learning Full stack development
+- 🌱 I’m currently learning Full stack development, AI, Blockchain, etc.
 - 📫 How to reach me : zentryx.official@gmail.com
   
 <!---
